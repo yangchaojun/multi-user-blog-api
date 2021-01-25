@@ -1,0 +1,21 @@
+{
+  "name": "blog-api-koa",
+  "version": "1.0.0",
+  "description": "the apis for serveral persons blog",
+  "main": "app.js",
+  "scripts": {
+    "serve": "nodemon app.js"
+  },
+  "keywords": [
+    "blog",
+    "koa2",
+    "api"
+  ],
+  "author": "yangchaojun",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.1",
+    "koa-router": "^10.0.0",
+    "nodemon": "^2.0.7"
+  }
+}
